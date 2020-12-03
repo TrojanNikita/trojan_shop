@@ -1,0 +1,13 @@
+.light {
+    --primary-color: #333;
+    --primary-background: #ffe4e1;
+    --primary-hover-background: #ff7ff2;
+    --second-background: #c3b2b5;
+}
+
+.dark {
+    --primary-color: #ffe4e1;
+    --primary-background: #333;
+    --primary-hover-background: #ff7ff2;
+    --second-background: #c3b2b5;
+}
